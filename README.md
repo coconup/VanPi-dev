@@ -14,7 +14,7 @@ The approach taken here is loosely based on [this tutorial](https://binnes.githu
 1. Clone this repository on your local machine within a directory of your choice
 2. From the folder in which you cloned the repo, run:
 ```
-	~$ ./create-node-red-docker.sh
+    ~$ ./create-node-red-docker.sh
     ~$ ./start-node-red-docker.sh
 ```
 
