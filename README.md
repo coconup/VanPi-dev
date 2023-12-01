@@ -22,9 +22,9 @@ The approach taken here is loosely based on [this tutorial](https://binnes.githu
 4. Open Node RED at http://127.0.0.1:1880/ and start a new project by clicking on _"Clone Repository"_
 5. Provide your username and email address and click _"Next"_
 6. Copy-paste the _SSH_ address of your cloned _VAN_PI_ repository into _"Git Repository URL"_
-7. Click on "Add new SSH key" and copy the obtained public key into your [GitHub SSH keys](https://github.com/settings/keys)
+7. Click on "Add an ssh key" and copy the obtained public key into your [GitHub SSH keys](https://github.com/settings/keys)
 8. You might need to refresh Node RED in your browser and start adding the repository again, following the steps above, after closing the SSH window
-9. Click on _"Clone"_ and wait (this might take a few minutes)
+9. Click on _"Clone project"_ and wait (this might take a few minutes)
 10. You will get a _"Project package file not found"_ error. Click on _"Setup project files"_
 11. Next to _Files_, click _"edit"_ and point _Package_ and _Flow_ to `/VanPi-OS/package.json` and `/VanPi-OS/flows.json`
 12. Click _"Save"_
