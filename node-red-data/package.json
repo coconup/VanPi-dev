@@ -3,9 +3,9 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "private": true,
-        "dependencies": {
+    "dependencies": {
         "i2c-bus": "latest",
-        "node-mcp23017": "latest",
+        "node-mcp23017": "~0.1.0",
         "node-red-contrib-binary": "latest",
         "node-red-contrib-buffer-parser": "^3.2.2",
         "node-red-contrib-countdown-2": "~1.4.2",

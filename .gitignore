@@ -1,4 +1,5 @@
 node-red-data/node_modules
+node-red-data/package-lock.json
 node-red-data/projects
 node-red-data/.npm
 node-red-data/.config*
