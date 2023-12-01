@@ -1,11 +1,11 @@
 {
-    "name": "node-red-project",
-    "description": "A Node-RED Project",
+    "name": "A Node-RED project",
+    "description": "initially created for you by Node-RED 2.2.2 ",
     "version": "0.0.1",
     "private": true,
     "dependencies": {
         "i2c-bus": "latest",
-        "node-mcp23017": "~0.1.0",
+        "node-mcp23017": "latest",
         "node-red-contrib-binary": "latest",
         "node-red-contrib-buffer-parser": "^3.2.2",
         "node-red-contrib-countdown-2": "~1.4.2",
@@ -17,8 +17,6 @@
         "node-red-contrib-pca9685": "~0.1.4",
         "node-red-contrib-pid-controller": "latest",
         "node-red-contrib-play-audio": "^2.5.0",
-        "node-red-contrib-queued-sqlite": "latest",
-        "node-red-contrib-sqlitedb": "latest",
         "node-red-contrib-ui-time-scheduler": "~1.17.2",
         "node-red-contrib-zigbee2mqtt": "~2.6.3",
         "node-red-dashboard": "latest",
@@ -27,7 +25,6 @@
         "node-red-node-random": "^0.4.1",
         "node-red-node-serialport": "^1.0.1",
         "node-red-node-smooth": "^0.1.2",
-        "node-red-node-sqlite": "latest",
         "node-red-node-ui-list": "~0.3.6",
         "npm-check-updates": "latest",
         "package.json": "latest"
