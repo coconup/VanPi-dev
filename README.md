@@ -18,7 +18,7 @@ The approach taken here is loosely based on [this tutorial](https://binnes.githu
     ~$ ./start-node-red-docker.sh
 ```
 
-3. Create your own fork of the [`VAN_PI` repository](https://github.com/Pekaway/VAN_PI), which is where you will develop custom feature and keep in sync with the original project
+3. Create your own fork of the [`VAN_PI` repository](https://github.com/Pekaway/VAN_PI), which is where you will develop custom features and keep in sync with the original project
 4. Open Node RED at http://127.0.0.1:1880/ and start a new project by clicking on _"Clone Repository"_
 5. Provide your username and email address and click _"Next"_
 6. Copy-paste the _SSH_ address of your cloned _VAN_PI_ repository into _"Git Repository URL"_
